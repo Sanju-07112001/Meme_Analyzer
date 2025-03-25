@@ -60,8 +60,11 @@ HUGGINGFACE_API_KEY = "your_api_key_here"
 
 <img width="791" alt="image" src="https://github.com/user-attachments/assets/b6d42506-f4da-42fc-a9c8-31aec3522fca" />
 
-
+### Negative meme 
 <img width="804" alt="image" src="https://github.com/user-attachments/assets/5f192d61-d99f-4a29-8abe-600b20fcaa12" />
+
+### Positive meme 
+<img width="799" alt="image" src="https://github.com/user-attachments/assets/ec8b606b-57b5-4761-b7dc-14eaff936029" />
 
 
 ### **🧑‍💻 Author**
