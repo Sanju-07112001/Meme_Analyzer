@@ -6,11 +6,11 @@
 Meme Analyser is an AI-powered tool that detects and classifies memes based on their content, sentiment, and context. It utilizes deep learning models for image and text analysis, extracting meaningful insights from memes shared on social media.  
 
 ## 🚀 Features  
-- 🖼 **Image Recognition** – Identifies objects, text, and elements in memes.  
-- 📝 **Text Extraction (OCR)** – Extracts embedded text from memes for analysis.  
-- 📊 **Sentiment Analysis** – Determines whether the meme is positive, negative, or neutral.  
-- 🎭 **Meme Classification** – Categorizes memes into predefined themes (e.g., political, humor, relatable, etc.).  
-- 🧠 **AI-Powered Understanding** – Uses NLP and vision models to interpret meme meaning.  
+-  **Image Recognition** – Identifies objects, text, and elements in memes.  
+-  **Text Extraction (OCR)** – Extracts embedded text from memes for analysis.  
+-  **Sentiment Analysis** – Determines whether the meme is positive, negative, or neutral.  
+-  **Meme Classification** – Categorizes memes into predefined themes (e.g., political, humor, relatable, etc.).  
+-  **AI-Powered Understanding** – Uses NLP and vision models to interpret meme meaning.  
 
 ## 🛠 Tech Stack  
 - **Python** – Core programming language  
@@ -53,27 +53,19 @@ Make sure to replace `**KEY**` in the notebook code with your **Hugging Face API
 ```python
 HUGGINGFACE_API_KEY = "your_api_key_here"
 ```
-> ⚠️ **Note:** You can get a free Hugging Face API key from [Hugging Face](https://huggingface.co/settings/tokens).  
+>  **Note:** You can get a free Hugging Face API key from [Hugging Face](https://huggingface.co/settings/tokens).  
 
 ## 📸 Output Screenshots  
 
 
 <img width="791" alt="image" src="https://github.com/user-attachments/assets/b6d42506-f4da-42fc-a9c8-31aec3522fca" />
 
-## RESULT 
+
 <img width="804" alt="image" src="https://github.com/user-attachments/assets/5f192d61-d99f-4a29-8abe-600b20fcaa12" />
 
 
-
-## 📚 Future Enhancements  
-- 🚀 Improve classification accuracy with fine-tuned models  
-- 🌎 Support for multiple languages in OCR  
-- 🔥 Deploy as a web app for public use  
-
-## 🤝 Contributing  
-Contributions are welcome! Feel free to fork, submit issues, or suggest improvements.  
-
-## 👤 Owner  
-Project developed by **[Sanju-07112001]**.  
+### **🧑‍💻 Author**
+👤 **Srisanjana Karunamoorthy**  
+🔗 GitHub: [Sanju-07112001](https://github.com/Sanju-07112001)  
 
 ---
